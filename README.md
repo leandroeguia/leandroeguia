@@ -1,16 +1,21 @@
-### Hi there 👋
+# Leandro Eguía
+Computer Engineer at @UNLP  |  Ssr. Software Developer 
+## 🧐 About
+I'm a fullstack Software Engineer with the mission of build efficient and client-oriented software solutions. I have experience in Java development, mostly web application oriented. Also, I'm currently working on democratizing technical education and shape the next generation of engineers and developers, by making some interesting online courses. When I'm not working, I love to spend time doing outdoor sports, playing guitar, and indulging my love for seeing new places.  
 
-<!--
-**leandroeguia/leandroeguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **TypeScript, Angular**
+- Backend development using **Java, SpringBoot**
+- Architectural design for **Relational Database Management Systems** 
+- Robust full-stack system design implementation
+- Creating scalable cloud architecture using **AWS**
+- Project Management and CD/CI using **Jenkins**
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- PortFolio - [@leandroeguia](https://www.behance.net/leandroeguia)
+- LinkedIn - [Leandro Eguia](https://www.linkedin.com/in/leandroeguia/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
