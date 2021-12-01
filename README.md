@@ -12,9 +12,8 @@ Talk to me about
 - Front-end development using **TypeScript, Angular**
 - Backend development using **Java, SpringBoot**
 - Architectural design for **Relational Database Management Systems** 
-- Robust full-stack system design implementation
-- Creating scalable cloud architecture using **AWS**
-- Project Management and CD/CI using **Jenkins**
+
+
 
 ## 📫 Contact Me
 
