@@ -1,5 +1,5 @@
 # Leandro Eguía
-Computer Engineer at @UNLP  |  Ssr. Software Developer 
+Computer Engineer @UNLP  | Software Engineer @MercadoLibre
 ## 🧐 About
 I'm a fullstack Software Engineer with the mission of build efficient and client-oriented software solutions. I have experience in Java development, mostly web application oriented. 
 <br>
